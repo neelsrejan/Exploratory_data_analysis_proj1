@@ -1,1 +1,1 @@
-# Exploratory_data_analysis_proj1
+The above scripts make plots using the Electric power consumption datasets from the UCI Machine Learning Reposititory.
